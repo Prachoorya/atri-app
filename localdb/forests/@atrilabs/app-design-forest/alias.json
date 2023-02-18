@@ -1,0 +1,19 @@
+{
+  "Flex": 11,
+  "TextBox": 24,
+  "Input": 2,
+  "Image": 9,
+  "Div": 6,
+  "Link": 5,
+  "Button": 6,
+  "Step": 1,
+  "Upload": 1,
+  "Accordion": 1,
+  "Radio": 1,
+  "Slider": 1,
+  "Toggle": 1,
+  "Dropdown": 1,
+  "Carousel": 3,
+  "AreaChart": 1,
+  "Icon": 1
+}
